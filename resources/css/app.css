@@ -1,0 +1,21 @@
+/* resources/css/app.css */
+/* Tabler Core CSS */
+@import '@tabler/core/dist/css/tabler.min.css';
+
+/* Custom styles */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.qr-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.menu-item-card {
+    transition: transform 0.2s;
+}
+
+.menu-item-card:hover {
+    transform: translateY(-2px);
+}

@@ -1,0 +1,24 @@
+Proje Adı: qrmenu-app
+Proje Amacı : Restoranlar için QR Menu SAAS'ı
+Özellikler
+1- Çok dilli sistem : Hem admin panelinde hem önyüzde çok dilli bir site yapısı uyacak. on yüzde sayfa urlleri çok dilli bir sisteme uygun olacak. Mesela qrmenuapp.com/page/page-title iken aynı sayfanın türkçe urlsi qrmenuapp.com/sayfa/sayfa-basligi şeklinde olabilecek. Ayrıca dil yapısı dinamik olacak. istediğim herhangi bir dili sisteme ekleyip çıkarabilmeliyim.
+2- Üyelik Yetkilendirme : panelde herhangi bir kullanıcının hangi işlemleri yapacağı belirlenebilmeli.
+3 - Üyelik Planları : farklı üyelik planları olacak. ücretsiz, standart, pro gibi. herbirinin limitleri farklı olacak. mesela standart üye 1 restoran 1 şube 20 ürün girebiliyorken, pro üye 1 restoran 5 şube toplamda 150 ürün girebiliyor olacak.
+4 -  iki tane admin paneli olacak. admin ve restoran için. 
+Admindeki özellikler
+- Üye listelemesi
+- restoran listemelesi
+- üyelik planı listeleme ve yeni üyelik planı ekleme
+- ödemeleri listeleme
+- sayfa listeleme, ekleme ve düzenleme
+- blog yazısı listeleme, ekleme ve düzenleme
+- dil ekleme, silme
+Restoran özellikleri
+- restoran bilgilerini güncelleme
+- şube listeleme, ekleme, düzenleme,
+- kullanıcı listeleme, ekleme, düzenleme. (kullanıcı yetkilendirmesi burada yapılacak. mesela kullanıcı bir şubedeki menüleri düzenleyebilsin ama yeni şube ekleyemesin gibi)
+- menui listeleme,ekleme,düzenleme
+- masa listeleme,ekleme,düzenleme
+- üyelik planını görüntüleme, plan değiştirme
+- faturaları görme. kendi üyelik ödemesi için kesilen faturaları.
+
